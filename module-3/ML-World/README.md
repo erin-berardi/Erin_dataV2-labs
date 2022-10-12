@@ -6,6 +6,7 @@ Machine Learning now is one of the trending topics if you talk aboyt technology.
 The objectives of this lab are:
 * Get to introduced into this world through the latest most important news we have had in the last years.
 * Guide you to do a deeper research to understand them better.
+* Practice your presenting skills
 
 So you will be asked to read a piece of news and then share it with your partners. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific better.
 
@@ -40,4 +41,23 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 12. [Traffic AI](https://motherboard.vice.com/en_us/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic)
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
 14. [FaceApp](https://techcrunch.com/2017/02/08/faceapp-uses-neural-networks-for-photorealistic-selfie-tweaks/?guccounter=1)
-15. [The way we walk](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+15. [What our eyes can tell us](https://medium.com/health-ai/googles-ai-can-see-through-your-eyes-what-doctors-can-t-c1031c0b3df4)
+16. [Sports prediction](https://techxplore.com/news/2022-10-algorithms-sports-teams-accuracy.html)
+17. [AI Bill of Rights](https://techxplore.com/news/2022-10-white-house-unveils-artificial-intelligence.html)
+18. [Coca-Cola uses AI](https://www.artificialintelligence-news.com/2019/05/07/how-coca-cola-is-using-ai-to-stay-at-the-top-of-the-soft-drinks-market/)
+19. [AI and Parkinson's Disease](https://news.mit.edu/2022/artificial-intelligence-can-detect-parkinsons-from-breathing-patterns-0822)
+20. [AI and Covid](https://medium.datadriveninvestor.com/how-china-used-artificial-intelligence-to-combat-covid-19-f5ebc1ef93d)
+21. [AI trends in Healthcare](https://towardsdatascience.com/3-ai-trendsthat-will-revolutionise-healthcare-da4198dbb31d)
+22. [Hurricane financial aid given by AI](https://www.wired.com/story/hurricane-ian-destroyed-homes-google-algorithms-sent-money/)
+23. [Assesing Disasters for First Responders](https://techxplore.com/news/2022-10-machine-accurate-hurricane.html)
+24. [Stopping Racist Robots](https://www.wired.com/story/how-to-stop-robots-becoming-racist/)
+25. [Robot gives testimony](https://news.sky.com/story/ai-robot-ai-da-is-about-to-make-history-giving-evidence-to-a-house-of-lords-inquiry-12717525)
+26. [AI like a human brain](https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/)
+27. [Generative AI and Silicon Valley](https://www.cnbc.com/2022/10/08/generative-ai-silicon-valleys-next-trillion-dollar-companies.html)
+28. [New AI learning techniques](https://news.mit.edu/2022/machine-learning-edge-microcontroller-1004)
+
+
+
+
+
+
